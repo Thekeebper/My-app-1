@@ -2,5 +2,3 @@
 
 Welcome to my app top
 Welcome to my app top
-Welcome to my app top
-Welcome to my app top
